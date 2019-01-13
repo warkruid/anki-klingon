@@ -7,6 +7,7 @@ I soon discovered that none of the publicly available packages were sufficient. 
 
 # Usage
 python gendict.py -i klingon-english.csv
+python gendict.py -i english-klingon.csv
 
 # Todo items
 * Generate english-klingon
