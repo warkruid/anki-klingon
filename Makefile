@@ -1,3 +1,5 @@
+# Warning! This is a _VERY_ idiosyncratic Makefile. 
+# It probably only works for me. YMMV!
 
 clean:
 	rm .*~
@@ -15,3 +17,6 @@ winactivate: venv
 
 installreq: winactivate
 	pip install -r requirements.txt
+
+changelog:
+	git log  --reverse 

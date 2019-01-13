@@ -13,3 +13,6 @@ python gendict.py -i klingon-english.csv
 * Add images (copyright free, non-commercial? CC license?)
 * Add sound (kli text to speech converter?)
 * better layout of flashcard
+
+# Attributions
+Source: The Klingon Dictionary by Mark Okrand.
