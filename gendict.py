@@ -48,5 +48,4 @@ with open(input_filename) as csvfile:
         right_word = row[rightword]
         deck.add_note(genanki.Note(SIMPLE_MODEL,[left_word, right_word]))
 my_package = genanki.Package(deck)
-#my_package.media_files = ['default.jpg']
-my_package.write_to_file(dictionary_name + '.apkg')
+my_package.write_to_file('./anki-package/' + dictionary_name + '.apkg')
