@@ -6,7 +6,7 @@ When I started to study some klingon, I wanted to use [anki flashcards](https://
 I soon discovered that none of the publicly available packages were sufficient. So I set out to create my own with the [genanki package](https://github.com/kerrickstaley/genanki)
 
 # Usage
-python gendict.py -i klingon-english.csv
+python gendict.py -i klingon-english.csv<br>
 python gendict.py -i english-klingon.csv
 
 # Todo items
