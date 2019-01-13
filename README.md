@@ -10,7 +10,7 @@ python gendict.py -i klingon-english.csv<br>
 python gendict.py -i english-klingon.csv
 
 # Todo items
-* Generate english-klingon
+* Generate english-klingon (DONE)
 * Add images (copyright free, non-commercial? CC license?)
 * Add sound (kli text to speech converter? ask permission!)
 * better layout of flashcard
