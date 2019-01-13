@@ -12,8 +12,9 @@ python gendict.py -i english-klingon.csv
 # Todo items
 * Generate english-klingon
 * Add images (copyright free, non-commercial? CC license?)
-* Add sound (kli text to speech converter?)
+* Add sound (kli text to speech converter? ask permission!)
 * better layout of flashcard
+* change to boQwI as a source of words? (ask permission!)
 
 # Attributions
 Source: The Klingon Dictionary by Mark Okrand.
