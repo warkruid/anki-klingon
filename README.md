@@ -18,3 +18,7 @@ python gendict.py -i english-klingon.csv
 
 # Attributions
 Source: The Klingon Dictionary by Mark Okrand.
+
+Please support the Klingon Language by purchasing The Klingon Dictionary, Klingon for the Galactic Traveller, The Klingon Way, Conversational Klingon, Power Klingon, and other Klingon- and Star Trek- related products from Pocket Books, Simon & Schuster, and Paramount/Viacom/CBS Entertainment.
+
+Klingon, Star Trek, and related marks are trademarks of CBS Studios, Inc., and are used under "fair use" guidelines.
