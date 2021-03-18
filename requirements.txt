@@ -6,7 +6,7 @@ chardet==3.0.4
 frozendict==1.2
 genanki==0.6.0
 idna==2.8
-Pillow==7.1.2
+Pillow==8.1.1
 pystache==0.5.4
 pyyaml>=4.2b1
 requests==2.21.0
