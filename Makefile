@@ -8,6 +8,7 @@ clean:
 all: winactivate installreq
 	python gendict.py -i klingon-english.csv
 	python gendict.py -i english-klingon.csv
+	python gendict.py -i tokipona-english.csv
 
 venv:
 	python -m venv ./venv

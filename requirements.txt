@@ -8,10 +8,6 @@ genanki
 idna==2.8
 Pillow
 pystache
-<<<<<<< HEAD
 pyyaml
-=======
-pyyaml>=4.2b1
->>>>>>> d4281f56e0832aa181c283c368d3b3778a6b44e0
 requests
 urllib3
