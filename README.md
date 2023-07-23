@@ -9,12 +9,8 @@ I soon discovered that none of the publicly available packages were sufficient. 
 python gendict.py -i klingon-english.csv<br>
 python gendict.py -i english-klingon.csv
 
-# Todo items
-* Generate english-klingon (DONE)
-* Add images (copyright free, non-commercial? CC license?)
-* Add sound (kli text to speech converter? ask permission!)
-* better layout of flashcard
-* change to boQwI as a source of words? (ask permission!)
+# apkg binary releases 
+https://github.com/warkruid/anki-klingon/releases
 
 # Attributions
 Source: The Klingon Dictionary by Mark Okrand.
