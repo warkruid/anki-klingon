@@ -1,13 +1,1 @@
-beautifulsoup4
-bs4
-cached-property
-certifi
-chardet
-frozendict
 genanki
-idna==2.8
-Pillow
-pystache
-pyyaml
-requests
-urllib3
